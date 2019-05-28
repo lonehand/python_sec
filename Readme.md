@@ -23,17 +23,21 @@
 	unzip
 
 
-[Python沙箱逃逸的n种姿势](https://xianzhi.aliyun.com/forum/read/2138.html)
+[Python沙箱逃逸的n种姿势](https://xz.aliyun.com/t/52)
+
+[禁用import的情况下绕过python沙箱](https://www.anquanke.com/post/id/107000)
+
+[Escaping the Python Sandbox](https://zolmeister.com/2013/05/escaping-python-sandbox.html)
+
+[Python Sandbox Bypass](https://mp.weixin.qq.com/s?__biz=MzIzOTQ5NjUzOQ==&mid=2247483665&idx=1&sn=4b18de09738fdc5291634db1ca2dd55a)
 
 [Python之数据序列化（json、pickle、shelve）](http://www.cnblogs.com/yyds/p/6563608.html)
 
-[Exploiting Python PIL Module Command Execution Vulnerability](https://xianzhi.aliyun.com/forum/read/2163.html)
+[Exploiting Python PIL Module Command Execution Vulnerability](https://xz.aliyun.com/t/44)
 
 [Exploiting Python Code Injection in Web Applications](https://www.doyler.net/security-not-included/exploiting-python-code-injection)
 
 [EXPLOITING PYTHON CODE INJECTION IN WEB APPLICATIONS](http://www.securitynewspaper.com/2016/11/12/exploiting-python-code-injection-web-applications/)
-
-[Exploiting Python Code Injection in Web Applications](https://sethsec.blogspot.jp/2016/11/exploiting-python-code-injection-in-web.html)
 
 [Python eval的常见错误封装及利用原理](http://xxlegend.com/2015/07/31/Python%20eval%E7%9A%84%E5%B8%B8%E8%A7%81%E9%94%99%E8%AF%AF%E5%B0%81%E8%A3%85%E5%8F%8A%E5%88%A9%E7%94%A8%E5%8E%9F%E7%90%86/)
 
@@ -43,7 +47,11 @@
 
 [掌阅iReader某站Python漏洞挖掘](https://www.leavesongs.com/PENETRATION/zhangyue-python-web-code-execute.html)
 
-[Python Pickle的任意代码执行漏洞实践和Payload构造](http://www.code2sec.com/2017/03/22/python-pickle%E7%9A%84%E4%BB%BB%E6%84%8F%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E%E5%AE%9E%E8%B7%B5%E5%92%8Cpayload%E6%9E%84%E9%80%A0/)
+[Python Pickle的任意代码执行漏洞实践和Payload构造](http://code2sec.com/python-picklede-ren-yi-dai-ma-zhi-xing-lou-dong-shi-jian-he-payloadgou-zao.html)
+
+[django的secret key泄漏导致的命令执行实践](http://code2sec.com/djangode-secret-keyxie-lou-dao-zhi-de-ming-ling-zhi-xing-shi-jian.html)
+
+[Remote Code Execution on a Facebook server](https://blog.scrt.ch/2018/08/24/remote-code-execution-on-a-facebook-server/)
 
 [Python PyYAML反序列化漏洞实验和payload构造](http://www.code2sec.com/2017/09/22/python-pyyaml%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E6%BC%8F%E6%B4%9E%E5%AE%9E%E9%AA%8C%E5%92%8Cpayload%E6%9E%84%E9%80%A0/)
 
@@ -53,7 +61,9 @@
 
 [PyCodeInjection代码注入实验环境](https://github.com/sethsec/PyCodeInjection)
 
+[Exploiting Python Code Injection in Web Applications](https://sethsec.blogspot.com/2016/11/exploiting-python-code-injection-in-web.html)  （[翻译版](https://www.anquanke.com/post/id/84891)）
 
+[Numpy反序列化命令执行(CVE-2019-6446)浅析](https://www.freebuf.com/vuls/194540.html)
 
 
 
@@ -61,11 +71,13 @@
 
 [Python安全编码和代码审计](http://xxlegend.com/2015/07/30/Python%E5%AE%89%E5%85%A8%E7%BC%96%E7%A0%81%E5%92%8C%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1/)
 
-https://xianzhi.aliyun.com/forum/read/303.html
-https://xianzhi.aliyun.com/forum/read/302.html
-https://xianzhi.aliyun.com/forum/read/301.html
-https://xianzhi.aliyun.com/forum/read/300.html
-https://xianzhi.aliyun.com/forum/read/274.html
+[Python代码审计连载之一：CSRF](https://xz.aliyun.com/t/391) 同  <https://www.cdxy.me/?p=736> 
+
+[Python代码审计连载之二：SSTI](https://xz.aliyun.com/t/390)  同 <https://www.cdxy.me/?p=738> 
+
+[Python代码审计连载之三：Server Side Request](https://xz.aliyun.com/t/389) 同  <https://www.cdxy.me/?p=744> 
+
+[Python代码审计连载之四：Command Execution](https://xz.aliyun.com/t/388) 同  <https://www.cdxy.me/?p=747> 
 
 [Dangerous Python Functions, Part 1](https://www.kevinlondon.com/2015/07/26/dangerous-python-functions.html)
 
@@ -103,7 +115,7 @@ https://xianzhi.aliyun.com/forum/read/274.html
 
 [Django的两个url跳转漏洞分析:CVE-2017-7233&7234](https://paper.seebug.org/274/)
 
-[Python 格式化字符串漏洞（Django为例）](https://www.leavesongs.com/PENETRATION/python-string-format-vulnerability.html)
+[Python 格式化字符串漏洞（Django为例）](https://www.leavesongs.com/PENETRATION/python-string-format-vulnerability.html) 同 https://xz.aliyun.com/t/288
 
 [Django 安全最佳实践](http://www.atjiang.com/2scoopsdjango1.8-26-security-best-practices/)
 
@@ -139,7 +151,7 @@ https://www.pytosquatting.org/
 
 [Python安全 - 从SSRF到命令执行惨案](https://www.leavesongs.com/PENETRATION/getshell-via-ssrf-and-redis.html)
 
-[Splash SSRF 到获取内网服务器 ROOT 权限](https://xianzhi.aliyun.com/forum/read/1872.html)
+[Splash SSRF 到获取内网服务器 ROOT 权限](https://xz.aliyun.com/t/118)
 
 
 
@@ -191,7 +203,9 @@ Python_Hack_知道创宇_北北(孙博).pdf
 
 [Programming Secure Web Applications in Python](https://www.thoughtco.com/programming-secure-web-applications-2813531)
 
-[Advisory: HTTP Header Injection in Python urllib](http://blog.blindspotsecurity.com/2016/06/advisory-http-header-injection-in.html)
+[[CVE-2016-5699] HTTP Header Injection in Python urllib](http://blog.blindspotsecurity.com/2016/06/advisory-http-header-injection-in.html) 同 http://www.anquan.us/static/drops/papers-16905.html
+
+[[CVE-2019-9740] Python urllib CRLF injection vulnerability](https://bugs.python.org/issue36276)  同 https://xz.aliyun.com/t/5123
 
 [Hack Redis via Python urllib HTTP Header Injection](https://security.tencent.com/index.php/blog/msg/106)
 
